@@ -1,5 +1,12 @@
 # Automated Marketplace Interface  
 "Your One-Stop Shop"  
+Presented at Hackaday Supercon on Saturday, November 4, 2023  
+Find the talk here:  (TBD)  
+
+## Documentation  
+Documentation will be updated soon!  Hey, I just finished my slides for the talk, so documentation is next.  
+If you're at Supercon and want to get this app setup, just come find me and I'll help you out or demonstrate the app on my computer.  
+If you experience any issues or want to suggest updates, just open an issue on GitHub.  
 
 ## Requirements  
 Check out the requirements file for what to install  
@@ -13,6 +20,8 @@ This project uses Streamlit to create the web app.  To run, navigate to your fol
 ## Tindie  
 This project can be used with Tindie Marketplace.  
 Tindie info will be updated here.  
+Tindie API documentation can be found here:  https://sf-tindie.zendesk.com/hc/en-us/articles/4401799283476-JSON-Orders-API
+Tindie only offers "GET" requests for order information.  Emails/Order Fulfillment/Shipping is done via other APIs in this project.  
 
 ## Etsy  
 This project can be used with Etsy Marketplace.  
@@ -23,11 +32,12 @@ More information on authenticating with the Etsy API can be found here:  https:/
 ## Lectronz  
 This project can be used with Lectronz Marketplace.  
 Lectronz info will be updated here.  
+Lectronz API documentation can be found here:  https://lectronz.com/api_docs  
 
-## Shpify  
+## Shopify  
 This project can be used with Shopify Marketplace.  
 Shopify info will be updated here.  
-
+Shopify API documentation can be found here:  https://shopify.dev/docs  
 
 ## Known Issues/Bugs  
 Not everything in the GUI is technically usable.  Some of the features are placeholders for work in progress.  If you click a button or make an action and nothing happens, look in the code to see if the action is just an empty function.  
