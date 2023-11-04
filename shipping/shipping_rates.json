@@ -1,0 +1,71 @@
+{
+    "date_time_updated": "2023-10-26 17:59:49",
+    "carriers": [
+	{
+        "carrier_name": "USPS",
+        "carrier_id": 0,
+        "carrier_code": "usps",
+        "carrier_logo": "https://cdn.shopify.com/s/files/1/0270/2097/1235/files/usps.png?v=1603749489",
+        "carrier_tracking_url": "https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=",
+        "carrier_is_default": true,
+        "carrier_is_enabled": true,
+        "carrier_is_international": true,
+        "carrier_is_domestic": true,
+        "carrier_services": [{
+                "carrier_service_name": "Ground Advantage",
+                "carrier_service_code": "usps_ground_advantage",
+                "carrier_service_id": 0,
+                "carrier_service_is_enabled": true,
+                "carrier_service_is_international": false,
+                "carrier_service_is_domestic": true,
+                "carrier_service_delivery_time": "3-5 business days",
+                "carrier_service_delivery_time_min": 3,
+                "carrier_service_delivery_time_max": 5,
+                "carrier_service_delivery_time_units": "days",
+                "carrier_service_rate": 8,
+                "carrier_service_currency": "USD",
+                "carrier_service_is_default": true
+            },
+            {
+                "carrier_service_name": "Priority Mail",
+                "carrier_service_code": "usps_priority_mail",
+                "carrier_service_id": 1,
+                "carrier_service_is_enabled": true,
+                "carrier_service_is_international": false,
+                "carrier_service_is_domestic": true,
+                "carrier_service_delivery_time": "1-2 business days",
+                "carrier_service_delivery_time_min": 1,
+                "carrier_service_delivery_time_max": 2,
+                "carrier_service_delivery_time_units": "days",
+                "carrier_service_rate": 10,
+                "carrier_service_currency": "USD",
+                "carrier_service_is_default": false
+            },
+            {
+                "carrier_service_name": "Priority Mail Express Shipping",
+                "carrier_service_code": "usps_priority_mail_express_shipping",
+                "carrier_service_id": 2,
+                "carrier_service_is_enabled": true,
+                "carrier_service_is_international": false,
+                "carrier_service_is_domestic": true,
+                "carrier_service_delivery_time": "1 business days",
+                "carrier_service_delivery_time_min": 1,
+                "carrier_service_delivery_time_max": 1,
+                "carrier_service_delivery_time_units": "days",
+                "carrier_service_rate": 55,
+                "carrier_service_currency": "USD",
+                "carrier_service_is_default": false
+            },
+            {
+                "carrier_service_name": "Standard International Shipping",
+                "carrier_service_code": "usps_standard_international_shipping",
+                "carrier_service_id": 4,
+                "carrier_service_is_enabled": true,
+                "carrier_service_is_international": true,
+                "carrier_service_is_domestic": false,
+                "carrier_service_delivery_time": "2-5 weeks"
+            }
+        ]
+    }
+        ]    
+}

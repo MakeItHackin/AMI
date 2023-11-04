@@ -1,0 +1,17 @@
+{
+    "date_time_updated": "2023-10-26 17:59:49",
+    "packaging": [
+		{
+            "package_id": "1",
+            "package_name": "Box 7x4x2",
+            "package_description": "Box 7x4x2",
+            "package_image": "https://via.placeholder.com/150",
+            "package_status": true,
+            "package_length": 7,
+            "package_width": 4,
+            "package_height": 2,
+            "package_weight_lb": 0,
+            "package_weight_oz": 2
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "date_time_updated": "2023-10-30 13:24:22",
+    "products": [
+		{
+            "product_id": "651219849842342",
+            "product_id_etsy": "",
+            "product_id_tindie": "",
+            "product_id_shopify": "",
+            "product_id_lectronz": "",
+            "product_name": "",
+            "product_base_price": 0,
+            "product_in_stock": 0,
+            "product_sku": "",
+            "product_model_number": "",
+            "product_short_description": "",
+            "product_long_description": "",
+            "product_weight_lb": 0,
+            "product_weight_oz": 0,
+            "product_length": 0,
+            "product_width": 0,
+            "product_height": 0,
+            "product_measurement_unit": "metric",
+            "product_image": "",
+            "product_category": "",
+            "product_brand": "",
+            "product_tariff_number": "",
+            "product_country_of_origin": "",
+            "product_documentation_link": "",
+            "product_code_link": "",
+            "product_video_link": "",
+            "product_bom_link": "",
+            "product_datasheet_link": "",
+            "product_design_files_link": "",
+            "product_oshwa_uid_number": "",
+            "product_shipping_rates": [],
+            "product_condition": "",
+            "product_url": "",
+            "product_type": "",
+            "product_tags": [],
+            "product_options": []
+        }
+    ]
+}
