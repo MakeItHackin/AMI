@@ -17,6 +17,8 @@ Tindie info will be updated here.
 ## Etsy  
 This project can be used with Etsy Marketplace.  
 Etsy info will be updated here.  
+Etsy uses oAuth2.0 and Proof for Key Exhange for API authentication.  Use the etsyRequestAuthorizationCode_step1.py and etsyRequestAccessToken_step2.py to set up your Etsy Access Tokens.  
+More information on authenticating with the Etsy API can be found here:  https://developers.etsy.com/documentation/  
 
 ## Lectronz  
 This project can be used with Lectronz Marketplace.  
