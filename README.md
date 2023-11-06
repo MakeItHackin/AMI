@@ -9,10 +9,10 @@ If you're at Supercon and want to get this app setup, just come find me and I'll
 If you experience any issues or want to suggest updates, just open an issue on GitHub.  
 
 ## Requirements  
-Check out the requirements file for what to install  
+Check out the requirements file for what to install.  I think I may have too many packages in this file.  For example, discord is in there, but I don't use Discord in this project.  But installing everything else won't hurt.  You can always play the game of running scripts and find out what you're missing.  
 
 ## Environment file  
-take the env_example.txt file, edit, and save as '.env' (no file name)  
+take the env_example.txt file, edit, and save as '.env' (no file name).  Right now, you'll most likely need a value for each of these even if you don't use every one of the integrated platforms (Tindie, Etsy, Shopify, and Lectronz).  If you don't use all of the platforms, you may experience an error when the script tries to perform an action for one of them.  I'll update the settings tab later to enable/disable a platform from being used.  
 
 ## Streamlit  
 This project uses Streamlit to create the web app.  To run, navigate to your folder path and execute: streamlit run AutomatedMarketplaceInterface.py  
