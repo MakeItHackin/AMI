@@ -39,6 +39,9 @@ This project can be used with Shopify Marketplace.
 Shopify info will be updated here.  
 Shopify API documentation can be found here:  https://shopify.dev/docs  
 
+## Printers  
+For this project, I used a Zebra ZM400 Label Printer for shipping labels and a Milestone MHT-P80A receipt printer.  
+
 ## Known Issues/Bugs  
 Not everything in the GUI is technically usable.  Some of the features are placeholders for work in progress.  If you click a button or make an action and nothing happens, look in the code to see if the action is just an empty function.  
 Orders:  Tab should be fully working.  
